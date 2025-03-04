@@ -1,9 +1,7 @@
 ||conoceturecibo.claro.com.pe/lugares-de-pago^
-||f2ppch.cl^
 ||miclaro.claro.com.do^
 ||miclaro.com.ec/pagatufactura/web/index.php/llena/numero^
 ||miclaroexpressweb.claropr.com^
-||paises.paquetesmiclaro.com/?cc=claroAppFact^
 ||paises.paquetesmiclaro.com/?cc=claroAppFact^
 ||portalpagos.claro.com.co^
 ||ppmxfa.com^
@@ -12,7 +10,9 @@
 ||www.forcis.claro.com.co^
 ||www.inhab.claro.com.gt^
 ||www.oneprotaro.com^
+||www.ppchfa.com^
 ||www.ppecufa.com^
 ||www.pppefa.com^
 ||www.pprdfa.com^
 ||www.telcel.com/formasdepago^
+||f2ppch.cl^
