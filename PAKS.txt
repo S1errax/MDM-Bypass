@@ -1,1 +1,3 @@
+||motpaks.com/v1/api/paks/^
 ||motpaks.com/v2/api/paks/^
+||motpaks.com/v3/api/paks/^
