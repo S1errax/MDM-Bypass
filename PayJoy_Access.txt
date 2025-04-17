@@ -1,1 +1,4 @@
 ||api.rollbar.com/api/1/item^
+||api.payjoy.com/access/get-access-config.php^
+||api.payjoy.com/action.php^
+||devcheck.hmdglobal.com^
