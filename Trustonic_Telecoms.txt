@@ -1,2 +1,1 @@
-||ns.adobe.com/xap/1.0/^
 ||device.cloud.trustonic.com^
