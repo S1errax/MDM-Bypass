@@ -1,11 +1,2 @@
 ||ns.adobe.com/xap/1.0/^
-||www.w3.org/1999/xlink^
-||www.w3.org/2000/svg^
-||www.w3.org/TR/SVG11/feature#^
-||xml.org/sax/features/external-general-entities^
-||xml.org/sax/features/external-parameter-entities^
-||xml.org/sax/properties/lexical-handler^
-||xmlpull.org/v1/doc/features.html#process-docdecl^
-||xmlpull.org/v1/doc/features.html#process-namespaces^
 ||device.cloud.trustonic.com^
-||firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings^
