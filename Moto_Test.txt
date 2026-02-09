@@ -5,3 +5,4 @@
 ||smartstream-bg-dot-moto-engage.appspot.com^
 ||paid-cricket.dtignite.com^
 ||device.cloud.trustonic.com^
+||auth-api.digitalturbine.com^
