@@ -1,0 +1,7 @@
+||exmgr.cricketwireless.com^
+||www.cricketwireless.com^
+||moto-cds.appspot.com^
+||authservice-dot-moto-engage.appspot.com^
+||smartstream-bg-dot-moto-engage.appspot.com^
+||paid-cricket.dtignite.com^
+||device.cloud.trustonic.com^
