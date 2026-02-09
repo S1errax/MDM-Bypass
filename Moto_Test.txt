@@ -6,3 +6,5 @@
 ||paid-cricket.dtignite.com^
 ||device.cloud.trustonic.com^
 ||auth-api.digitalturbine.com^
+||payjoy.com^
+||api.payjoy.com^
